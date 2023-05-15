@@ -1,3 +1,6 @@
+<img width="1333" alt="Capture d’écran, le 2023-05-15 à 4 59 13 p m" src="https://github.com/JeanMichelBB/My_Django_blog/assets/107640908/5b637115-c494-4615-b2dd-333c8d73c684">
+
+
 Python Project as part of the course scripting language. 
 
 My Blog Web Application
